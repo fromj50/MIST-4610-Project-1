@@ -61,8 +61,6 @@ Each specific project requires many permits. A permit can only relate to one spe
 
 # Queries:
 
-<img width="405" alt="image" src="https://github.com/user-attachments/assets/54434a16-d018-4e67-ac3a-2c4992f02160">
-
 Query 1:
 
 Query 1 helps us find the contractors that are working on multiple projects as well as the number of projects they’re working on. This is significant because we need to know each contractor's capacity so that our company can probably allocate resources and plan accordingly. By identifying which contractors are involved in more than one project, the company can properly ensure that they are using all their resources in the most efficient manner and avoid the cost of delays. This is also great for other aspects like viewing performance insights, risk management, contractor relationships, and providing rationale behind satisfaction surveys.
@@ -122,6 +120,12 @@ Query 10:
 Query 10 is important because it helps management identify which suppliers are currently available to help aid a specific project, because suppliers with no current projects are more likely to deliver materials faster and have them in stock.
 <img width="1181" alt="image" src="https://github.com/user-attachments/assets/2dfdc438-8fde-45e0-82db-51609ceef0aa">
 
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/54434a16-d018-4e67-ac3a-2c4992f02160">
+
+# Database Information
+Database name:
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format:
 
 
 
