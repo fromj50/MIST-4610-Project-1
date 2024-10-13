@@ -56,19 +56,8 @@ The general contractor ensures that all work is completed to the required standa
 
 # Queries:
 
-Query 1:
-Helps to understand the distribution of property values among previous customers. This is useful for identifying high-value and high net-worth customers with multiple properties, in order to make informed decisions and marketing strategies. One can for example implement promotional programs to further incentivize loyal costumers.
-<img width="508" alt="image" src="https://github.com/user-attachments/assets/691310a1-e030-4924-9eec-1a76fb65c896">
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/66abf8b4-4668-4411-828d-c10e849726e0">
 
-
-Query 2:
-Helps to understand the distribution of property values among previous customers. Useful for identifying high-value and high net-worth customers with multiple properties, in order to make informed decisions and marketing strategies.
-<img width="779" alt="image" src="https://github.com/user-attachments/assets/cb082b06-f092-4f5f-a4d0-5e3099525915">
-
-
-Query 3:
-Tells us what supplier & the material they supply contractors with is the most important. This is useful in real world application so that the company knows what supplier companies to look out for, what material to buy in bulk, and the best pricing. 
-<img width="951" alt="image" src="https://github.com/user-attachments/assets/8a2c3650-c076-4008-b39f-ec1451e4aacf">
 
 
 
