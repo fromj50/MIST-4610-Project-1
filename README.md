@@ -8,9 +8,9 @@ Miles Cohall
 
 Lucas Ramos 
 
-Cameron Saini
+Cameron Saini 
 
-Hitanshi Shah
+Hitanshi Shah [@hshah56](https://github.com/hshah56)
 
 Tyler Martin
 
