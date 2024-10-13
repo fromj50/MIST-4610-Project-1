@@ -6,7 +6,7 @@ Team Name: BULLDAWGS
 
 Miles Cohall [@fromj50](https://github.com/fromj50)
 
-Lucas Ramos 
+Lucas Ramos [@jlr97647](https://github.com/jlr97647)
 
 Cameron Saini [@cameronsain](https://github.com/CameronSaini)
 
