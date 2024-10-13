@@ -39,6 +39,26 @@ The general contractor ensures that all work is completed to the required standa
 
 # Data Model:
 
+It is easy to understand this data model starting with a landowner. Each landowner’s attributes are listed under the owners entity. An owner can own multiple properties, hence the one-to-many relationship between owners and land_properties. 
+
+Each owner can acquire building plans from an architecture firm, and an architecture firm can supply many owners with building plans. This is modeled by a one-to-many relationship between architecture_firms and owners. 
+
+Each architecture firm can create many building plans, but each building plan can only be tied to one architecture firm. Also, a building plan cannot exist without an architecture firm. This is modeled by a one-to-many identifying relationship between architecture_firms and building_plans. 
+
+Once an owner has acquired their building plans they go to the construction project management firm who will tie them to a contractor. An owner can only be tied to one contractor but a contractor can work for many owners. This is modeled by a one-to-many relationship between contractors and owners. 
+
+Contractors that work for the construction project management firm are called general contractors. A general contractor can hire many subcontractors to work for them on specific projects. This is modeled by a one-to-many recursive relationship in the contractors entity. 
+
+Many contractors can work on many projects and many projects can be worked on by multiple contractors. This is modeled by a many-to-many relationship between contractors and projects.
+
+Also, each project is tied to a landowner. An owner can have multiple projects going on, but a project can only be tied to one owner. This is modeled by a one-to-many relationship between owners and projects. 
+
+A specific project can have many tasks that need to be accomplished within them. A task can only exist under a project. This is modeled by a one-to-many identifying relationship between projects and project_tasks. 
+
+Each specific project has to acquire many different materials. Many different projects need many different materials. Materials are supplied to a project through suppliers. This is modeled by a many-to-many relationship between projects and suppliers. 
+
+Each specific project requires many permits. A permit can only relate to one specific project. Permits can only exist under a specific project. This is modeled by a one-to-many relationship between projects and permits. 
+
 ![data model for project](https://github.com/user-attachments/assets/cd6e76c3-b97a-4777-9038-884c4920b86a)
 
 # Data Dictionary:
