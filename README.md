@@ -56,7 +56,8 @@ The general contractor ensures that all work is completed to the required standa
 
 # Queries:
 
-<img width="610" alt="image" src="https://github.com/user-attachments/assets/66abf8b4-4668-4411-828d-c10e849726e0">
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/54434a16-d018-4e67-ac3a-2c4992f02160">
+
 
 
 
