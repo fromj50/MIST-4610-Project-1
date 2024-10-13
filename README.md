@@ -6,7 +6,7 @@ Team Name: BULLDAWGS
 
 Miles Cohall 
 
-Lucas Ramos
+Lucas Ramos 
 
 Cameron Saini
 
@@ -16,26 +16,7 @@ Tyler Martin
 
 # Scenario Description:
 
-Our project serves as a project managament platform.
-
-Landowner initiates project: 
-The owner of a property seeks to develop the land by constructing a building.
-
-Consults with an architectural firm: 
-The landowner approaches an architecture firm to design detailed plans for the building, which include structural, aesthetic, and functional aspects.
-
-Engages a general contractor: 
-Once the architectural plans are finalized, the landowner hires a general contractor to manage and oversee the construction process.
-
-General contractor manages subcontractors: 
-The general contractor takes on the responsibility of coordinating various specialized trades, such as electricians, plumbers, and other subcontractors, ensuring the project adheres to the approved plans and timeline.
-
-Subcontractor execution: 
-Each subcontractor performs their specific duties (e.g., electrical wiring, plumbing, etc.) under the supervision and guidance of the general contractor to complete the project efficiently and within scope.
-
-Project completion: 
-The general contractor ensures that all work is completed to the required standards, and the building is ready for occupancy or use by the landowner.
-
+Our team was instructed to make a database for a construction project management firm. The central entity is contractors, as the project management firm has to keep tabs on each contractor that works for them. Contractors that work for the firm and are in charge of projects are called general contractors. These general contractors can work together on multiple projects and can also hire subcontractors for specific work such as electricity, plumbing, HVAC, etc. The general contractors must know characteristics of each project such as; the landowner tied to a project, what subcontractors are working on each project, what suppliers supplied each project, how many tasks each project has, and what permits each project has. In addition, the project management firm can also see which general contractors are tied to a specific landowner and what architecture firm supplied the building plans to that landowner. Based on these factors, we have acquired sample data to populate the database. Using this data, we can run a multitude of queries to answer mission critical questions.
 
 # Data Model:
 
