@@ -35,7 +35,7 @@ The general contractor ensures that all work is completed to the required standa
 
 # Data Model:
 
-![Screen Shot 2024-10-03 at 2 42 15 PM](https://github.com/user-attachments/assets/c402eb55-4ee3-4ce8-94d7-9c57b504e78a)
+![data model for project](https://github.com/user-attachments/assets/cd6e76c3-b97a-4777-9038-884c4920b86a)
 
 # Data Dictionary:
 /
@@ -46,7 +46,7 @@ The general contractor ensures that all work is completed to the required standa
 # Queries:
 
 Query 1:
-Helps to understand the distribution of property values among previous customers. Useful for identifying high-value and high net-worth customers with multiple properties, in order to make informed decisions and marketing strategies.
+Helps to understand the distribution of property values among previous customers. This is useful for identifying high-value and high net-worth customers with multiple properties, in order to make informed decisions and marketing strategies. One can for example implement promotional programs to further incentivize loyal costumers.
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/691310a1-e030-4924-9eec-1a76fb65c896">
 
 
