@@ -38,9 +38,7 @@ The general contractor ensures that all work is completed to the required standa
 ![data model for project](https://github.com/user-attachments/assets/cd6e76c3-b97a-4777-9038-884c4920b86a)
 
 # Data Dictionary:
-/
-/
-/
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/cedb2142-8efc-4d65-b042-1507c9f42d67">
 
 
 # Queries:
