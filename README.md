@@ -2,7 +2,7 @@
 
 Team Name: BULLDAWGS
 
-#Members:
+# Members:
 
      Miles Cohall 
      Lucas Ramos
@@ -10,7 +10,7 @@ Team Name: BULLDAWGS
      Hitanshi Shah
      Tyler Martin
 
-#Scenario Description:
+# Scenario Description:
 
 Our project serves as a project managament platform.
 
@@ -33,17 +33,17 @@ Project completion:
 The general contractor ensures that all work is completed to the required standards, and the building is ready for occupancy or use by the landowner.
 
 
-#Data Model:
+# Data Model:
 
 ![Screen Shot 2024-10-03 at 2 42 15 PM](https://github.com/user-attachments/assets/c402eb55-4ee3-4ce8-94d7-9c57b504e78a)
 
-#Data Dictionary:
+# Data Dictionary:
 /
 /
 /
 
 
-#Queries:
+# Queries:
 
 Query 1:
 Helps to understand the distribution of property values among previous customers. Useful for identifying high-value and high net-worth customers with multiple properties, in order to make informed decisions and marketing strategies.
