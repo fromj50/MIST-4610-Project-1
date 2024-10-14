@@ -123,9 +123,9 @@ Query 10 is important because it helps management identify which suppliers are c
 <img width="405" alt="image" src="https://github.com/user-attachments/assets/54434a16-d018-4e67-ac3a-2c4992f02160">
 
 # Database Information
-Database name:
+Database name: cs_tjm44794
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format:
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format:CALL TP_Q1();
 
 
 
